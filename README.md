@@ -29,7 +29,7 @@ El sistema opera bajo una arquitectura cliente-servidor desacoplada, distribuida
 | :--- | :--- | :--- | :--- |
 | **Frontend (SPA)** | React 19, Vite, Tailwind CSS, Axios | `https://github.com/IvanOs20/sigeJob-client.git` | `https://sigejod.com` |
 | **Backend (API REST)** | Node.js, Express 5, Sequelize, PostgreSQL | `https://github.com/IvanOs20/Alerta-Temprana.git` | `https://api.sigejod.com` |
-| **Documentación** | Especificación Técnica y Manuales Oficiales | `https://github.com/IvanOs20/SIGEJOD-Documentacion-Tecnica.git` | Repositorio Institucional UV |
+| **Documentación** | Especificación Técnica y Manuales Oficiales | `https://github.com/IvanOs20/SIGEJOD-Documentacion-Tecnica.git` | Repositorio GitHub |
 
 ---
 
